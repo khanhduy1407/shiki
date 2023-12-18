@@ -1,7 +1,10 @@
 {
   "name": "imba",
   "scopeName": "source.imba",
-  "fileTypes": ["imba", "imba2"],
+  "fileTypes": [
+    "imba",
+    "imba2"
+  ],
   "uuid": "ef98eb90-bf9b-11e4-bb52-0800200c9a67",
   "patterns": [
     {

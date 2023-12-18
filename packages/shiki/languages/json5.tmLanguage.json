@@ -1,6 +1,8 @@
 {
   "scopeName": "source.json5",
-  "fileTypes": ["json5"],
+  "fileTypes": [
+    "json5"
+  ],
   "name": "json5",
   "patterns": [
     {

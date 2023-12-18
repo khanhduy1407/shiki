@@ -1,7 +1,9 @@
 {
   "name": "jison",
   "scopeName": "source.jison",
-  "fileTypes": ["jison"],
+  "fileTypes": [
+    "jison"
+  ],
   "patterns": [
     {
       "begin": "%%",

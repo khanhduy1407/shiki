@@ -1,7 +1,9 @@
 {
   "name": "proto",
   "scopeName": "source.proto",
-  "fileTypes": ["proto"],
+  "fileTypes": [
+    "proto"
+  ],
   "patterns": [
     {
       "include": "#comments"

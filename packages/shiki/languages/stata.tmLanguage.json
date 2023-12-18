@@ -1,7 +1,11 @@
 {
   "scopeName": "source.stata",
   "name": "stata",
-  "fileTypes": ["do", "ado", "mata"],
+  "fileTypes": [
+    "do",
+    "ado",
+    "mata"
+  ],
   "foldingStartMarker": "\\{\\s*$",
   "foldingStopMarker": "^\\s*\\}",
   "patterns": [

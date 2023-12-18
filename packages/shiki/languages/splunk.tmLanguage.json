@@ -1,5 +1,8 @@
 {
-  "fileTypes": ["splunk", "spl"],
+  "fileTypes": [
+    "splunk",
+    "spl"
+  ],
   "name": "splunk",
   "patterns": [
     {

@@ -1,5 +1,15 @@
 {
-  "fileTypes": ["pas", "p", "pp", "dfm", "fmx", "dpr", "dpk", "lfm", "lpr"],
+  "fileTypes": [
+    "pas",
+    "p",
+    "pp",
+    "dfm",
+    "fmx",
+    "dpr",
+    "dpk",
+    "lfm",
+    "lpr"
+  ],
   "keyEquivalent": "^~P",
   "name": "pascal",
   "patterns": [

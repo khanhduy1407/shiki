@@ -2,7 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
   "name": "bicep",
   "scopeName": "source.bicep",
-  "fileTypes": [".bicep"],
+  "fileTypes": [
+    ".bicep"
+  ],
   "patterns": [
     {
       "include": "#expression"

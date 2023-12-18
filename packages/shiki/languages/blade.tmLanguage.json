@@ -1,7 +1,9 @@
 {
   "scopeName": "text.html.php.blade",
   "name": "blade",
-  "fileTypes": ["blade.php"],
+  "fileTypes": [
+    "blade.php"
+  ],
   "foldingStartMarker": "(/\\*|\\{\\s*$|<<<HTML)",
   "foldingStopMarker": "(\\*/|^\\s*\\}|^HTML;)",
   "injections": {

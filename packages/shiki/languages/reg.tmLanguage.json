@@ -1,5 +1,8 @@
 {
-  "fileTypes": ["reg", "REG"],
+  "fileTypes": [
+    "reg",
+    "REG"
+  ],
   "name": "reg",
   "patterns": [
     {

@@ -1,5 +1,7 @@
 {
-  "fileTypes": ["gd"],
+  "fileTypes": [
+    "gd"
+  ],
   "scopeName": "source.gdscript",
   "name": "gdscript",
   "patterns": [

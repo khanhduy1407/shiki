@@ -1,7 +1,11 @@
 {
   "name": "turtle",
   "scopeName": "source.turtle",
-  "fileTypes": ["turtle", "ttl", "acl"],
+  "fileTypes": [
+    "turtle",
+    "ttl",
+    "acl"
+  ],
   "patterns": [
     {
       "include": "#rule-constraint"

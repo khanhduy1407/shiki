@@ -1,5 +1,7 @@
 {
-  "fileTypes": ["zs"],
+  "fileTypes": [
+    "zs"
+  ],
   "name": "zenscript",
   "patterns": [
     {

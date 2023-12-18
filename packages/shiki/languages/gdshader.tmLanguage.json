@@ -2,7 +2,9 @@
   "name": "gdshader",
   "scopeName": "source.gdshader",
   "uuid": "3a95d25d-688b-481f-a581-eee47f00e5ca",
-  "fileTypes": ["gdshader"],
+  "fileTypes": [
+    "gdshader"
+  ],
   "patterns": [
     {
       "include": "#any"

@@ -1,7 +1,13 @@
 {
   "name": "wolfram",
   "scopeName": "source.wolfram",
-  "fileTypes": ["wl", "m", "wls", "wlt", "mt"],
+  "fileTypes": [
+    "wl",
+    "m",
+    "wls",
+    "wlt",
+    "mt"
+  ],
   "patterns": [
     {
       "include": "#main"

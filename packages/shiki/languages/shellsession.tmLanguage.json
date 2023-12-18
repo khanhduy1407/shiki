@@ -26,5 +26,7 @@
       "match": "^.+$"
     }
   ],
-  "fileTypes": ["sh-session"]
+  "fileTypes": [
+    "sh-session"
+  ]
 }

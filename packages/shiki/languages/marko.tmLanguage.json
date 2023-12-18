@@ -1,5 +1,7 @@
 {
-  "fileTypes": ["marko"],
+  "fileTypes": [
+    "marko"
+  ],
   "name": "marko",
   "patterns": [
     {

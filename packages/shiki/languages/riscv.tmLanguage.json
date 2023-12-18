@@ -1,5 +1,10 @@
 {
-  "fileTypes": ["S", "s", "riscv", "asm"],
+  "fileTypes": [
+    "S",
+    "s",
+    "riscv",
+    "asm"
+  ],
   "keyEquivalent": "^~M",
   "name": "riscv",
   "patterns": [

@@ -13,7 +13,10 @@
       "include": "#code"
     }
   ],
-  "fileTypes": ["kt", "kts"],
+  "fileTypes": [
+    "kt",
+    "kts"
+  ],
   "repository": {
     "import": {
       "begin": "\\b(import)\\b\\s*",

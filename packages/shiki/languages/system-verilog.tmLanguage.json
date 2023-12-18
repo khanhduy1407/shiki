@@ -1,5 +1,14 @@
 {
-  "fileTypes": ["sv", "SV", "v", "V", "svh", "SVH", "vh", "VH"],
+  "fileTypes": [
+    "sv",
+    "SV",
+    "v",
+    "V",
+    "svh",
+    "SVH",
+    "vh",
+    "VH"
+  ],
   "hidden": true,
   "name": "system-verilog",
   "patterns": [

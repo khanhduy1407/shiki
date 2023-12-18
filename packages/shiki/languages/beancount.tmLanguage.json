@@ -1,5 +1,7 @@
 {
-  "fileTypes": ["beancount"],
+  "fileTypes": [
+    "beancount"
+  ],
   "name": "beancount",
   "patterns": [
     {

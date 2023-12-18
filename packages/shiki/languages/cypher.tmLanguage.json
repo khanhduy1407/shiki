@@ -1,5 +1,9 @@
 {
-  "fileTypes": ["cql", "cyp", "cypher"],
+  "fileTypes": [
+    "cql",
+    "cyp",
+    "cypher"
+  ],
   "name": "cypher",
   "patterns": [
     {

@@ -101,13 +101,17 @@
       "name": "comment.berry",
       "begin": "\\#\\-",
       "end": "\\-#",
-      "patterns": [{}]
+      "patterns": [
+        {}
+      ]
     },
     "comments": {
       "name": "comment.line.berry",
       "begin": "\\#",
       "end": "\\n",
-      "patterns": [{}]
+      "patterns": [
+        {}
+      ]
     },
     "keywords": {
       "patterns": [

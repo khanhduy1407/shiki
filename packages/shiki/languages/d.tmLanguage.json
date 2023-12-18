@@ -1,5 +1,9 @@
 {
-  "fileTypes": ["d", "di", "dpp"],
+  "fileTypes": [
+    "d",
+    "di",
+    "dpp"
+  ],
   "name": "d",
   "scopeName": "source.d",
   "patterns": [

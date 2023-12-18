@@ -1,7 +1,9 @@
 {
   "scopeName": "source.ara",
   "name": "ara",
-  "fileTypes": ["ara"],
+  "fileTypes": [
+    "ara"
+  ],
   "patterns": [
     {
       "include": "#namespace"

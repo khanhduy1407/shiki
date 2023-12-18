@@ -1,7 +1,11 @@
 {
   "name": "sparql",
   "scopeName": "source.sparql",
-  "fileTypes": ["rq", "sparql", "sq"],
+  "fileTypes": [
+    "rq",
+    "sparql",
+    "sq"
+  ],
   "patterns": [
     {
       "include": "source.turtle"

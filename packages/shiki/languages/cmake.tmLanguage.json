@@ -1,5 +1,8 @@
 {
-  "fileTypes": ["cmake", "CMakeLists.txt"],
+  "fileTypes": [
+    "cmake",
+    "CMakeLists.txt"
+  ],
   "name": "cmake",
   "patterns": [
     {
