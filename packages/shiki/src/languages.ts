@@ -85,6 +85,8 @@ export type Lang =
   | 'jssm' | 'fsl'
   | 'jsx'
   | 'julia'
+  | 'kdu-html'
+  | 'kdu'
   | 'kotlin' | 'kt' | 'kts'
   | 'kusto' | 'kql'
   | 'latex'
@@ -786,6 +788,22 @@ export const languages: ILanguageRegistration[] = [
     displayName: 'Julia',
     samplePath: 'julia.sample',
     embeddedLangs: ['cpp', 'python', 'javascript', 'r', 'sql']
+  },
+  {
+    id: 'kdu-html',
+    scopeName: 'text.html.kdu-html',
+    path: 'kdu-html.tmLanguage.json',
+    displayName: 'Kdu HTML',
+    samplePath: 'kdu-html.sample',
+    embeddedLangs: ['kdu', 'javascript']
+  },
+  {
+    id: 'kdu',
+    scopeName: 'source.kdu',
+    path: 'kdu.tmLanguage.json',
+    displayName: 'Kdu',
+    samplePath: 'kdu.sample',
+    embeddedLangs: ['html', 'markdown', 'pug', 'stylus', 'sass', 'css', 'scss', 'less', 'javascript', 'typescript', 'jsx', 'tsx', 'json', 'jsonc', 'json5', 'yaml', 'toml', 'graphql']
   },
   {
     id: 'kotlin',

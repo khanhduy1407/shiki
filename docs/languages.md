@@ -135,6 +135,8 @@ export type Lang =
   | 'jssm' | 'fsl'
   | 'jsx'
   | 'julia'
+  | 'kdu-html'
+  | 'kdu'
   | 'kotlin' | 'kt' | 'kts'
   | 'kusto' | 'kql'
   | 'latex'
